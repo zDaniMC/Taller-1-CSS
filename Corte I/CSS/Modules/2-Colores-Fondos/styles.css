@@ -1,15 +1,27 @@
 body {
-    /* Color de fondo */
     background-color: lightgray;
 }
 
 h1 {
-    /* Color del texto */
     color: darkblue;
 }
 
 .caja {
-    background-color: yellow;
     width: 300px;
     height: 100px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.caja-1 {
+    background-color: yellow;
+    color: black;
+}
+
+.caja-2 {
+    background-color: tomato;
+}
+
+.caja-3 {
+    background-color: teal;
 }
