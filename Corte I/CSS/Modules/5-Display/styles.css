@@ -1,8 +1,25 @@
-span {
-    display:block;
+.span-1 {
+    display: block;
 }
 
-div {
-    display:inline-block;
-    border:1px solid black;
+.span-2 {
+    display: inline;
+}
+
+.span-3 {
+    display: none;
+}
+
+.div-1 {
+    display: inline-block;
+    border: 1px solid black;
+}
+
+.div-2 {
+    display: block;
+    border: 1px solid black;
+}
+
+.div-3 {
+    display: none;
 }
