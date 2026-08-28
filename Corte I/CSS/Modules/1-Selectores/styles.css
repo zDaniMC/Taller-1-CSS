@@ -1,15 +1,14 @@
-/* Selector por etiqueta Aplica a todos los h1 */
-
 h1 {
     color: blue;
+    font-size: 32px;
 }
 
-/* Selector por clase Se utiliza . */
 .texto-azul {
     color: blue;
+    font-size: 20px;
 }
 
-/* Selector por id Se utiliza # */
 #texto-rojo {
-    color:red;
+    color: red;
+    font-size: 16px;
 }
