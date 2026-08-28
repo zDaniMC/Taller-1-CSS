@@ -1,12 +1,17 @@
 h1 {
-    /* Tipo de letra */
     font-family: Arial;
-    /* Tamaño */
-    font-size:40px;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: Arial;
+    font-size: 24px;
+    text-transform: capitalize;
 }
 
 p {
-    font-size:20px;
-    /* Alineación */
-    text-align:justify;
+    font-size: 20px;
+    text-align: justify;
 }
