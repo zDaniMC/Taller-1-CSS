@@ -1,0 +1,15 @@
+a:hover {
+    color: red;
+}
+
+input:focus {
+    background-color: lightblue;
+}
+
+li:first-child {
+    color: green;
+}
+
+li:nth-child(3) {
+    color: blue;
+}
