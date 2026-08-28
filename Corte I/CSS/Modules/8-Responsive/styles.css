@@ -1,13 +1,19 @@
 .contenedor {
-    width:800px;
-    border:1px solid black;
+    width: 800px;
+    border: 1px solid black;
 }
 
-/*
-Cuando el ancho sea menor a 768px
-*/
-@media(max-width:768px){
-    .contenedor{
-        width:100%;
+.encabezado {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.contenido {
+    padding: 20px;
+}
+
+@media (max-width: 768px) {
+    .contenedor {
+        width: 100%;
     }
 }
